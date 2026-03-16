@@ -1,0 +1,2472 @@
+[
+  {
+    "scene_id": 0,
+    "theme": "praise",
+    "query": "Valmiki's invocation of Rama's glory"
+  },
+  {
+    "scene_id": 1,
+    "theme": "virtues",
+    "query": "Sage asks about virtues of an ideal man"
+  },
+  {
+    "scene_id": 2,
+    "theme": "serenity",
+    "query": "Valmiki at Tamasa river with Bharadvaja"
+  },
+  {
+    "scene_id": 3,
+    "theme": "narrative",
+    "query": "Valmiki narrates Rama's life and deeds"
+  },
+  {
+    "scene_id": 4,
+    "theme": "education",
+    "query": "Valmiki teaches Ramayana to Kusha and Lava"
+  },
+  {
+    "scene_id": 5,
+    "theme": "kingdom",
+    "query": "Description of Ayodhya kingdom and city"
+  },
+  {
+    "scene_id": 6,
+    "theme": "prosperity",
+    "query": "Prosperity and righteous rule in Ayodhya"
+  },
+  {
+    "scene_id": 7,
+    "theme": "governance",
+    "query": "Description of King Dasaratha's wise ministers"
+  },
+  {
+    "scene_id": 8,
+    "theme": "prophecy",
+    "query": "Prophecy of Rishyashringa and Lomapad's drought"
+  },
+  {
+    "scene_id": 9,
+    "theme": "deception",
+    "query": "Sumantra's plan to lure Rishyashringa with women"
+  },
+  {
+    "scene_id": 10,
+    "theme": "sacrifice",
+    "query": "Rishyashringa to perform sacrifice for Dasaratha's sons"
+  },
+  {
+    "scene_id": 11,
+    "theme": "consultation",
+    "query": "Dasaratha consults sages for horse sacrifice to have sons"
+  },
+  {
+    "scene_id": 12,
+    "theme": "preparation",
+    "query": "Rishyashringa instructs on sacrifice preparations"
+  },
+  {
+    "scene_id": 13,
+    "theme": "ritual",
+    "query": "Performance of Pravargya rites for horse sacrifice"
+  },
+  {
+    "scene_id": 14,
+    "theme": "divine assembly",
+    "query": "Rishyashringa begins Putrakameshti sacrifice; Gods gather"
+  },
+  {
+    "scene_id": 15,
+    "theme": "divine visit",
+    "query": "Divine messenger arrives to deliver a message to the king"
+  },
+  {
+    "scene_id": 16,
+    "theme": "creation",
+    "query": "Gods create monkey and bear allies for Vishnu's incarnation"
+  },
+  {
+    "scene_id": 17,
+    "theme": "duty",
+    "query": "King Dasharatha completes royal rites and returns to Ayodhya"
+  },
+  {
+    "scene_id": 18,
+    "theme": "respect",
+    "query": "King Dasharatha sends messenger to sage Rishyashringa after yagna"
+  },
+  {
+    "scene_id": 19,
+    "theme": "birth",
+    "query": "Birth of Rama, Bharata, Lakshmana, and Shatrughna"
+  },
+  {
+    "scene_id": 20,
+    "theme": "welcome",
+    "query": "King Dasharatha welcomes sage Vishwamitra to his court"
+  },
+  {
+    "scene_id": 21,
+    "theme": "obstacle",
+    "query": "Sage Vishwamitra requests help against demons disturbing his yagna"
+  },
+  {
+    "scene_id": 22,
+    "theme": "protection",
+    "query": "King Dasharatha refuses to send young Rama to fight demons"
+  },
+  {
+    "scene_id": 23,
+    "theme": "duty",
+    "query": "Sage Vashishtha advises King Dasharatha to send Rama with Vishwamitra"
+  },
+  {
+    "scene_id": 24,
+    "theme": "journey",
+    "query": "Rama and Lakshmana embark on journey with Vishwamitra"
+  },
+  {
+    "scene_id": 25,
+    "theme": "piety",
+    "query": "Rama and Lakshmana perform morning rites and arrive at a hermitage"
+  },
+  {
+    "scene_id": 26,
+    "theme": "travel",
+    "query": "Rama, Lakshmana, and Vishwamitra cross a river and hear a mysterious roar"
+  },
+  {
+    "scene_id": 27,
+    "theme": "curse",
+    "query": "Vishwamitra narrates the origin story and curse of demoness Tadaka"
+  },
+  {
+    "scene_id": 28,
+    "theme": "battle",
+    "query": "Rama confronts demoness Tadaka but hesitates to kill her"
+  },
+  {
+    "scene_id": 29,
+    "theme": "empowerment",
+    "query": "Sage Vishwamitra bestows celestial weapons upon Rama"
+  },
+  {
+    "scene_id": 30,
+    "theme": "training",
+    "query": "Rama learns divine weapons from Vishwamitra"
+  },
+  {
+    "scene_id": 31,
+    "theme": "deception",
+    "query": "Gods ask Vishnu to deceive demon king Bali"
+  },
+  {
+    "scene_id": 32,
+    "theme": "duty",
+    "query": "Rama and Lakshmana guard Vishwamitra's sacrifice"
+  },
+  {
+    "scene_id": 33,
+    "theme": "challenge",
+    "query": "Vishwamitra invites Rama to Janaka's swayamvara and the wondrous bow"
+  },
+  {
+    "scene_id": 34,
+    "theme": "legacy",
+    "query": "King's sons establish new cities"
+  },
+  {
+    "scene_id": 35,
+    "theme": "origin",
+    "query": "Sage narrates the origin story of the river Ganga"
+  },
+  {
+    "scene_id": 36,
+    "theme": "pilgrimage",
+    "query": "Rama and Vishwamitra reach the holy river Ganga"
+  },
+  {
+    "scene_id": 37,
+    "theme": "prophecy",
+    "query": "Sage Bhrigu prophesies the birth of King Sagar's sons"
+  },
+  {
+    "scene_id": 38,
+    "theme": "theft",
+    "query": "Indra steals King Sagar's sacrificial horse"
+  },
+  {
+    "scene_id": 39,
+    "theme": "quest",
+    "query": "Sagar's sons search for the stolen sacrificial horse"
+  },
+  {
+    "scene_id": 40,
+    "theme": "journey",
+    "query": "Prince Ansuman searches for the horse and consults warder elephants"
+  },
+  {
+    "scene_id": 41,
+    "theme": "penance",
+    "query": "King Bhagirath undertakes austerities to bring Ganga to earth"
+  },
+  {
+    "scene_id": 42,
+    "theme": "divine power",
+    "query": "Ganga descends upon Lord Shiva's head"
+  },
+  {
+    "scene_id": 43,
+    "theme": "journey",
+    "query": "Rama and Vishwamitra prepare to cross the Ganga river"
+  },
+  {
+    "scene_id": 44,
+    "theme": "vengeance",
+    "query": "Diti seeks a son to destroy Indra through penance"
+  },
+  {
+    "scene_id": 45,
+    "theme": "devotion",
+    "query": "A supplicant prays to Indra for seven spirits to become Maruts"
+  },
+  {
+    "scene_id": 46,
+    "theme": "duty",
+    "query": "Rama and Lakshmana are received as guests at a hermitage before journeying to Mithila"
+  },
+  {
+    "scene_id": 47,
+    "theme": "devotion",
+    "query": "Rama liberates Ahalya from her curse, and she offers hospitality"
+  },
+  {
+    "scene_id": 48,
+    "theme": "duty",
+    "query": "King Janak meets sage Viswamitra with honour and courtesy"
+  },
+  {
+    "scene_id": 49,
+    "theme": "duty",
+    "query": "Satananda questions Viswamitra about Rama's liberation of Ahalya"
+  },
+  {
+    "scene_id": 50,
+    "theme": "duty",
+    "query": "Sage Viswamitra inquires about King Janak's prosperous rule and well-being"
+  },
+  {
+    "scene_id": 51,
+    "theme": "war",
+    "query": "King Viswamitra demands Vasishtha's wish-fulfilling cow, Dapple-skin"
+  },
+  {
+    "scene_id": 52,
+    "theme": "war",
+    "query": "Viswamitra attempts to forcibly take Vasishtha's cow, Dapple-skin, who resists"
+  },
+  {
+    "scene_id": 53,
+    "theme": "war",
+    "query": "Sage Vasishtha annihilates Viswamitra's hundred sons and army"
+  },
+  {
+    "scene_id": 54,
+    "theme": "war",
+    "query": "Sage Vasishtha quenches Viswamitra's fiery weapon with his Brahman staff"
+  },
+  {
+    "scene_id": 55,
+    "theme": "devotion",
+    "query": "Brahma grants Viswamitra the title of 'royal saint,' but he seeks higher spiritual status"
+  },
+  {
+    "scene_id": 56,
+    "theme": "fate",
+    "query": "King Tri\u015banku is cursed by Vasishtha's sons and transformed into a Cha\u1e47\u1e0d\u00e1la"
+  },
+  {
+    "scene_id": 57,
+    "theme": "devotion",
+    "query": "Sage Viswamitra promises to help cursed King Tri\u015banku ascend to heaven in his physical body"
+  },
+  {
+    "scene_id": 58,
+    "theme": "duty",
+    "query": "Viswamitra compels other sages to assist in Tri\u015banku's controversial ascent to heaven"
+  },
+  {
+    "scene_id": 59,
+    "theme": "duty",
+    "query": "Indra steals King Ambar\u00edsha's sacrificial horse, leading to a demand for human sacrifice"
+  },
+  {
+    "scene_id": 60,
+    "theme": "protection",
+    "query": "Boy pleads with Vishwamitra for protection, citing his orphan status."
+  },
+  {
+    "scene_id": 61,
+    "theme": "temptation",
+    "query": "Vishwamitra sees a beautiful nymph bathing, is overcome with love, and stays with her."
+  },
+  {
+    "scene_id": 62,
+    "theme": "seduction",
+    "query": "Indra orders Rambha to seduce Vishwamitra, who is charmed by her."
+  },
+  {
+    "scene_id": 63,
+    "theme": "penance",
+    "query": "Vishwamitra continues severe penance, creating smoke and dread, terrifying the gods."
+  },
+  {
+    "scene_id": 64,
+    "theme": "quest",
+    "query": "Vishwamitra asks King Janak to show Shiva's bow to Rama and Lakshmana, Janak explains its history."
+  },
+  {
+    "scene_id": 65,
+    "theme": "challenge",
+    "query": "Janak shows Shiva's mighty bow, Rama attempts to lift and string it."
+  },
+  {
+    "scene_id": 66,
+    "theme": "marriage",
+    "query": "King Janak informs Dasharatha that Rama broke Shiva's bow and won Sita, inviting him for the marriage."
+  },
+  {
+    "scene_id": 67,
+    "theme": "journey",
+    "query": "King Dasharatha prepares his army and priests for a journey to Videha for Rama's wedding, met by King Janak."
+  },
+  {
+    "scene_id": 68,
+    "theme": "invitation",
+    "query": "Janak sends envoys to invite another king (likely his brother) to share the wedding joy in Mithila."
+  },
+  {
+    "scene_id": 69,
+    "theme": "lineage",
+    "query": "King Janak recounts his royal lineage and ancestry to the hermit Vashishta."
+  },
+  {
+    "scene_id": 70,
+    "theme": "marriage",
+    "query": "King Janak proposes four simultaneous marriages, uniting his family with Dasharatha's on an auspicious day."
+  },
+  {
+    "scene_id": 71,
+    "theme": "family",
+    "query": "A messenger from Kekaya greets Dasharatha in Mithila, expressing the Kekaya king's wish to see Bharata."
+  },
+  {
+    "scene_id": 72,
+    "theme": "dowry",
+    "query": "King Janak bestows a lavish dowry on his daughters as King Dasharatha and his sons depart for Ayodhya."
+  },
+  {
+    "scene_id": 73,
+    "theme": "confrontation",
+    "query": "Dasharatha fears Parashurama's return and confronts him, who then addresses Rama about two divine bows."
+  },
+  {
+    "scene_id": 74,
+    "theme": "challenge",
+    "query": "Parashurama challenges Rama to a divine test of strength using Vishnu's dart, witnessed by gods."
+  },
+  {
+    "scene_id": 75,
+    "theme": "joy",
+    "query": "Ayodhya celebrates Rama's impending coronation"
+  },
+  {
+    "scene_id": 76,
+    "theme": "affection",
+    "query": "King Dasharatha's love and praise for his son Rama"
+  },
+  {
+    "scene_id": 77,
+    "theme": "succession",
+    "query": "King Dasharatha expresses desire to enthrone Rama due to old age"
+  },
+  {
+    "scene_id": 78,
+    "theme": "proclamation",
+    "query": "King Dasharatha orders preparations for Rama's consecration"
+  },
+  {
+    "scene_id": 79,
+    "theme": "summons",
+    "query": "King Dasharatha summons Rama to the royal court"
+  },
+  {
+    "scene_id": 80,
+    "theme": "instruction",
+    "query": "Sage Vashishtha instructs Rama and Sita to fast before coronation"
+  },
+  {
+    "scene_id": 81,
+    "theme": "ritual",
+    "query": "Rama performs morning rites, Ayodhya rejoices at coronation news"
+  },
+  {
+    "scene_id": 82,
+    "theme": "revelation",
+    "query": "Rama's nurse reveals coronation news to a maid, causing anger"
+  },
+  {
+    "scene_id": 83,
+    "theme": "warning",
+    "query": "A female attendant warns the Queen about Rama's coronation threat to Bharata"
+  },
+  {
+    "scene_id": 84,
+    "theme": "reminiscence",
+    "query": "Attendant recounts King Dasharatha's past battle with Shambara where the Queen helped"
+  },
+  {
+    "scene_id": 85,
+    "theme": "pretense",
+    "query": "Queen Kaikeyi feigns distress in her bower as King Dasharatha approaches"
+  },
+  {
+    "scene_id": 86,
+    "theme": "vow",
+    "query": "King Dasharatha vows to grant Queen Kaikeyi any wish, swearing by Rama"
+  },
+  {
+    "scene_id": 87,
+    "theme": "anger",
+    "query": "King Dasharatha's furious reaction to Queen Kaikeyi's terrible demand"
+  },
+  {
+    "scene_id": 88,
+    "theme": "despair",
+    "query": "King Dasharatha laments Kaikeyi's cruelty and wishes for death"
+  },
+  {
+    "scene_id": 89,
+    "theme": "justification",
+    "query": "Queen Kaikeyi lectures King Dasharatha on the supreme importance of truth and vows"
+  },
+  {
+    "scene_id": 90,
+    "theme": "celebration",
+    "query": "Preparations for a grand ceremony, festive atmosphere"
+  },
+  {
+    "scene_id": 91,
+    "theme": "duty",
+    "query": "Sumantra summons Rama, Rama agrees due to father's command"
+  },
+  {
+    "scene_id": 92,
+    "theme": "coronation",
+    "query": "People bless Rama, anticipate his anointing as king"
+  },
+  {
+    "scene_id": 93,
+    "theme": "anguish",
+    "query": "Rama sees his father Dasharatha in deep misery and pain"
+  },
+  {
+    "scene_id": 94,
+    "theme": "sacrifice",
+    "query": "Rama offers to yield everything for Bharat and father's honor"
+  },
+  {
+    "scene_id": 95,
+    "theme": "grief",
+    "query": "King Dasharatha faints from overwhelming grief"
+  },
+  {
+    "scene_id": 96,
+    "theme": "loyalty",
+    "query": "Lakshmana fiercely defends Rama, offers to secure throne"
+  },
+  {
+    "scene_id": 97,
+    "theme": "concern",
+    "query": "Rama expresses concern for his mother and father's truthfulness"
+  },
+  {
+    "scene_id": 98,
+    "theme": "wrath",
+    "query": "Lakshmana expresses fierce anger, feeling his sword"
+  },
+  {
+    "scene_id": 99,
+    "theme": "lamentation",
+    "query": "Kausalya laments Rama's exile, recalls grief for offspring"
+  },
+  {
+    "scene_id": 100,
+    "theme": "blessing",
+    "query": "Kausalya blesses Rama for his journey to exile"
+  },
+  {
+    "scene_id": 101,
+    "theme": "anguish",
+    "query": "Rama enters home dejected, Sita observes his changed demeanor"
+  },
+  {
+    "scene_id": 102,
+    "theme": "devotion",
+    "query": "Sita insists on accompanying Rama to the forest exile"
+  },
+  {
+    "scene_id": 103,
+    "theme": "hardship",
+    "query": "Rama describes dangers and difficulties of forest life to Sita"
+  },
+  {
+    "scene_id": 104,
+    "theme": "determination",
+    "query": "Sita firmly insists on joining Rama, recalling prophecy"
+  },
+  {
+    "scene_id": 105,
+    "theme": "devotion",
+    "query": "Sita insists on accompanying Rama to exile"
+  },
+  {
+    "scene_id": 106,
+    "theme": "devotion",
+    "query": "Lakshmana begs Rama to join him in exile"
+  },
+  {
+    "scene_id": 107,
+    "theme": "generosity",
+    "query": "Rama gives farewell gifts to Suyajna and Brahmans"
+  },
+  {
+    "scene_id": 108,
+    "theme": "grief",
+    "query": "Ayodhya citizens lament Rama's exile on foot"
+  },
+  {
+    "scene_id": 109,
+    "theme": "grief",
+    "query": "Dasharatha's grief as Rama prepares for exile"
+  },
+  {
+    "scene_id": 110,
+    "theme": "condemnation",
+    "query": "Condemnation of Kaikeyi for Rama's banishment"
+  },
+  {
+    "scene_id": 111,
+    "theme": "grief",
+    "query": "Dasharatha orders a luxurious retinue for Rama's exile"
+  },
+  {
+    "scene_id": 112,
+    "theme": "sacrifice",
+    "query": "Rama, Lakshmana, and Sita don bark clothes for exile"
+  },
+  {
+    "scene_id": 113,
+    "theme": "justice",
+    "query": "Protest against Sita wearing bark clothes for exile"
+  },
+  {
+    "scene_id": 114,
+    "theme": "grief",
+    "query": "Dasharatha faints watching Rama wear hermit garb"
+  },
+  {
+    "scene_id": 115,
+    "theme": "duty",
+    "query": "Sumitra blesses Lakshmana before his exile"
+  },
+  {
+    "scene_id": 116,
+    "theme": "grief",
+    "query": "Royal queens lament Rama's banishment; Dasharatha's grief"
+  },
+  {
+    "scene_id": 117,
+    "theme": "anger",
+    "query": "Dasharatha disowns Kaikeyi in his grief"
+  },
+  {
+    "scene_id": 118,
+    "theme": "longing",
+    "query": "Lament for the hardships of Rama, Sita, Lakshmana's exile"
+  },
+  {
+    "scene_id": 119,
+    "theme": "hope",
+    "query": "Prophecy of Rama's enduring greatness and divine protection in exile"
+  },
+  {
+    "scene_id": 120,
+    "theme": "duty",
+    "query": "Rama's purpose to obey his father, people's affection for Rama, asks them to love Bharata."
+  },
+  {
+    "scene_id": 121,
+    "theme": "exile",
+    "query": "Rama, Sita, Lakshman arrive in the wilds, Rama reflects on Ayodhya's sorrow."
+  },
+  {
+    "scene_id": 122,
+    "theme": "grief",
+    "query": "Multitude's fear and grief over Rama's departure, lamenting his absence."
+  },
+  {
+    "scene_id": 123,
+    "theme": "despair",
+    "query": "Ayodhya's state of sorrow, no joy, no trade, women wailing after Rama's exile."
+  },
+  {
+    "scene_id": 124,
+    "theme": "journey",
+    "query": "Rama continues his exile journey through Kosala, crossing several rivers."
+  },
+  {
+    "scene_id": 125,
+    "theme": "farewell",
+    "query": "Rama addresses the weeping multitude, bids farewell, leaves Kosala behind."
+  },
+  {
+    "scene_id": 126,
+    "theme": "loyalty",
+    "query": "Guha vows to guard Rama and Sita while they sleep in the forest."
+  },
+  {
+    "scene_id": 127,
+    "theme": "journey",
+    "query": "Rama asks Guha to cross the swift Jahnavi river, Guha arranges a boat."
+  },
+  {
+    "scene_id": 128,
+    "theme": "reflection",
+    "query": "Rama converses with Lakshman, reflects on King Dasharatha's sorrow and Kaikeyi's ambition."
+  },
+  {
+    "scene_id": 129,
+    "theme": "journey",
+    "query": "Rama and Lakshman reach Bharadvaja's hermitage near the Yamuna and Ganga confluence."
+  },
+  {
+    "scene_id": 130,
+    "theme": "guidance",
+    "query": "Instructions for a journey from the Ganga-Yamuna confluence to Chitrakuta, crossing rivers and landmarks."
+  },
+  {
+    "scene_id": 131,
+    "theme": "nature",
+    "query": "Rama describes the natural beauty of Chitrakuta, pointing out trees, birds, and animals."
+  },
+  {
+    "scene_id": 132,
+    "theme": "despair",
+    "query": "Sumantra returns to a sorrowful Ayodhya, people ask for Rama, Sumantra reports leaving him at Ganga's shore."
+  },
+  {
+    "scene_id": 133,
+    "theme": "anguish",
+    "query": "King Dasharatha expresses anguish to Sumantra, concerned for Rama's well-being and suffering in exile."
+  },
+  {
+    "scene_id": 134,
+    "theme": "report",
+    "query": "Sumantra reports Rama, Sita, and Lakshman's journey across the Ganga to Prayag and his forced return."
+  },
+  {
+    "scene_id": 135,
+    "theme": "duty",
+    "query": "Charioteer comforts lady about Rama, Lakshmana, and Sita upholding duty in exile"
+  },
+  {
+    "scene_id": 136,
+    "theme": "exile",
+    "query": "Mother laments Rama's exile and fears for his well-being"
+  },
+  {
+    "scene_id": 137,
+    "theme": "exile",
+    "query": "King Dasharatha grieves Rama's exile and recalls past sin"
+  },
+  {
+    "scene_id": 138,
+    "theme": "exile",
+    "query": "King Dasharatha reflects on consequences of his deeds and Rama's exile"
+  },
+  {
+    "scene_id": 139,
+    "theme": "exile",
+    "query": "Dasharatha recalls Shravan Kumar's blind father's tragic plea"
+  },
+  {
+    "scene_id": 140,
+    "theme": "duty",
+    "query": "Description of morning rituals and music in the royal palace"
+  },
+  {
+    "scene_id": 141,
+    "theme": "duty",
+    "query": "Kaushalya confronts Kaikeyi, blaming her for king's death and Rama's exile"
+  },
+  {
+    "scene_id": 142,
+    "theme": "exile",
+    "query": "Sages gather to mourn King Dasharatha's death due to Rama's exile"
+  },
+  {
+    "scene_id": 143,
+    "theme": "duty",
+    "query": "Vashishta dispatches envoys to bring Bharat and Shatrughna back"
+  },
+  {
+    "scene_id": 144,
+    "theme": "exile",
+    "query": "Bharat recounts disturbing dream about his father's suffering"
+  },
+  {
+    "scene_id": 145,
+    "theme": "love",
+    "query": "Bharat asks envoys about the well-being of his family"
+  },
+  {
+    "scene_id": 146,
+    "theme": "duty",
+    "query": "Description of Bharat's journey back to Ayodhya"
+  },
+  {
+    "scene_id": 147,
+    "theme": "love",
+    "query": "Bharat arrives and greets his mother Kaikeyi, discussing his journey"
+  },
+  {
+    "scene_id": 148,
+    "theme": "duty",
+    "query": "Bharat angrily confronts Kaikeyi about his father's death and Rama's exile"
+  },
+  {
+    "scene_id": 149,
+    "theme": "duty",
+    "query": "Bharat condemns Kaikeyi and disowns her for her wickedness"
+  },
+  {
+    "scene_id": 150,
+    "theme": "grief",
+    "query": "Bharat arrives, learns of banishment, meets Kausalya"
+  },
+  {
+    "scene_id": 151,
+    "theme": "ritual",
+    "query": "Vashishta instructs Bharat on Dasharatha's cremation rites"
+  },
+  {
+    "scene_id": 152,
+    "theme": "mourning",
+    "query": "Bharat laments at King Dasharatha's funeral pyre"
+  },
+  {
+    "scene_id": 153,
+    "theme": "wrath",
+    "query": "Manthara is caught and brought before Shatrughna"
+  },
+  {
+    "scene_id": 154,
+    "theme": "duty",
+    "query": "Bharat resolves to bring Rama back from exile"
+  },
+  {
+    "scene_id": 155,
+    "theme": "preparation",
+    "query": "Army constructs a road through the forest for Bharat's expedition"
+  },
+  {
+    "scene_id": 156,
+    "theme": "grief",
+    "query": "Bharat expresses sorrow and blames Kaikeyi for current misfortunes"
+  },
+  {
+    "scene_id": 157,
+    "theme": "loyalty",
+    "query": "Bharat refuses Vashishta's request to become king, affirming loyalty to Rama"
+  },
+  {
+    "scene_id": 158,
+    "theme": "anticipation",
+    "query": "Citizens express hope and joy, preparing to meet Rama in exile"
+  },
+  {
+    "scene_id": 159,
+    "theme": "hospitality",
+    "query": "King Guha prepares to meet Bharat, offering hospitality and vigilance"
+  },
+  {
+    "scene_id": 160,
+    "theme": "trust",
+    "query": "Bharat asks Guha for directions, addressing Guha's doubts about his intentions"
+  },
+  {
+    "scene_id": 161,
+    "theme": "devotion",
+    "query": "Lakshmana recounts his vigil protecting Rama and Sita in the forest"
+  },
+  {
+    "scene_id": 162,
+    "theme": "despair",
+    "query": "Bharat collapses in despair at Rama's sleeping place, comforted by Shatrughna and mothers"
+  },
+  {
+    "scene_id": 163,
+    "theme": "realization",
+    "query": "Bharat observes Rama and Sita's sleeping place, mourning their hardship"
+  },
+  {
+    "scene_id": 164,
+    "theme": "travel",
+    "query": "Bharat asks Guha to arrange boats for his army to cross the river"
+  },
+  {
+    "scene_id": 165,
+    "theme": "reverence",
+    "query": "Bharat pays reverence to Va\u015bish\u1e6dha and is questioned about Ayodhya"
+  },
+  {
+    "scene_id": 166,
+    "theme": "hospitality",
+    "query": "Bharadv\u00e1ja offers hospitality to Bharat and asks about his solo journey"
+  },
+  {
+    "scene_id": 167,
+    "theme": "gratitude",
+    "query": "Bharat confirms Bharadv\u00e1ja's feast satisfied everyone"
+  },
+  {
+    "scene_id": 168,
+    "theme": "journey",
+    "query": "Description of Bharat's army moving through Chitrak\u00fa\u1e6da's nature"
+  },
+  {
+    "scene_id": 169,
+    "theme": "nature",
+    "query": "Rama shows Sita the beauty of Chitrak\u00fa\u1e6da mountain"
+  },
+  {
+    "scene_id": 170,
+    "theme": "nature",
+    "query": "Rama continues describing Chitrak\u00fa\u1e6da's natural wonders to Sita"
+  },
+  {
+    "scene_id": 171,
+    "theme": "dwelling",
+    "query": "Rama and Sita discover a beautiful cave on Chitrak\u00fa\u1e6da for shelter"
+  },
+  {
+    "scene_id": 172,
+    "theme": "apprehension",
+    "query": "Rama hears a loud, startling noise on Chitrak\u00fa\u1e6da and questions Lakshman"
+  },
+  {
+    "scene_id": 173,
+    "theme": "duty",
+    "query": "Rama explains his duty and devotion to his brothers, not wanting the kingdom for selfish gain"
+  },
+  {
+    "scene_id": 174,
+    "theme": "longing",
+    "query": "Bharat expresses his longing to see Rama and enthrone him as king"
+  },
+  {
+    "scene_id": 175,
+    "theme": "discovery",
+    "query": "Bharat finds Rama's hermitage on Chitrak\u00fa\u1e6da, guided by signs"
+  },
+  {
+    "scene_id": 176,
+    "theme": "supplication",
+    "query": "A queen begs Rama to accept the kingdom and forgive her"
+  },
+  {
+    "scene_id": 177,
+    "theme": "refusal",
+    "query": "Rama refuses the throne, citing succession custom and his father's death"
+  },
+  {
+    "scene_id": 178,
+    "theme": "grief",
+    "query": "Rama expresses sorrow for his father's death and reluctance to return to Ayodhya"
+  },
+  {
+    "scene_id": 179,
+    "theme": "mourning",
+    "query": "Kau\u015baly\u00e1 laments Rama's humble funeral offering and Lakshman's toil"
+  },
+  {
+    "scene_id": 180,
+    "theme": "duty",
+    "query": "People lament Rama's absence and wish for his return"
+  },
+  {
+    "scene_id": 181,
+    "theme": "forgiveness",
+    "query": "Brother praises Rama's wisdom and asks for forgiveness for mother's sin"
+  },
+  {
+    "scene_id": 182,
+    "theme": "duty",
+    "query": "Rama explains his father's promise and his fourteen-year exile"
+  },
+  {
+    "scene_id": 183,
+    "theme": "persuasion",
+    "query": "Bharata argues against Rama's exile and urges him to return"
+  },
+  {
+    "scene_id": 184,
+    "theme": "truth",
+    "query": "Rama explains the importance of truth and upholding promises"
+  },
+  {
+    "scene_id": 185,
+    "theme": "lineage",
+    "query": "Description of Ikshvaku dynasty and Rama's ancestors"
+  },
+  {
+    "scene_id": 186,
+    "theme": "counsel",
+    "query": "Sage advises Rama on duty to parents and protecting his people"
+  },
+  {
+    "scene_id": 187,
+    "theme": "duty",
+    "query": "Sages advise Rama his duty is fulfilled, Bharata pleads for him to return and rule"
+  },
+  {
+    "scene_id": 188,
+    "theme": "journey",
+    "query": "Bharata and army travel from Chitrakuta and meet sage Bharadvaja"
+  },
+  {
+    "scene_id": 189,
+    "theme": "desolation",
+    "query": "Ayodhya's desolate state upon Bharata's return"
+  },
+  {
+    "scene_id": 190,
+    "theme": "departure",
+    "query": "Sage praises Bharata who departs for Nandigram with Shatrughna"
+  },
+  {
+    "scene_id": 191,
+    "theme": "concern",
+    "query": "Rama expresses concern as hermits show unease and dread"
+  },
+  {
+    "scene_id": 192,
+    "theme": "hospitality",
+    "query": "Sage and his wife Anasuy\u00e1 show hospitality to Rama and Sita"
+  },
+  {
+    "scene_id": 193,
+    "theme": "devotion",
+    "query": "Sita speaks of a wife's devotion and obedience to her husband"
+  },
+  {
+    "scene_id": 194,
+    "theme": "nature",
+    "query": "Description of evening in the forest with hermits and wildlife"
+  },
+  {
+    "scene_id": 195,
+    "theme": "tranquility",
+    "query": "description of a peaceful hermit settlement"
+  },
+  {
+    "scene_id": 196,
+    "theme": "danger",
+    "query": "giant Rakshas attacks Rama Lakshmana Sita"
+  },
+  {
+    "scene_id": 197,
+    "theme": "combat",
+    "query": "Rama slays giant with arrows"
+  },
+  {
+    "scene_id": 198,
+    "theme": "victory",
+    "query": "Rama and Lakshmana defeat giant by crushing"
+  },
+  {
+    "scene_id": 199,
+    "theme": "divinity",
+    "query": "Rama and Lakshmana journey to Sarabhanga and see gods"
+  },
+  {
+    "scene_id": 200,
+    "theme": "asceticism",
+    "query": "description of various ascetic practices and hermits"
+  },
+  {
+    "scene_id": 201,
+    "theme": "welcome",
+    "query": "Rama Lakshmana Sita arrive at hermit's cottage and are welcomed"
+  },
+  {
+    "scene_id": 202,
+    "theme": "protection",
+    "query": "Ascetics seek Rama's permission to leave Dandaka forest"
+  },
+  {
+    "scene_id": 203,
+    "theme": "duty",
+    "query": "Sage praises Rama's virtues and reminds him of promise to protect saints"
+  },
+  {
+    "scene_id": 204,
+    "theme": "protection",
+    "query": "Hermits ask Rama for protection against fiends in the forest"
+  },
+  {
+    "scene_id": 205,
+    "theme": "mystery",
+    "query": "Rama Lakshmana hear mysterious music by a lake and ask a sage"
+  },
+  {
+    "scene_id": 206,
+    "theme": "anticipation",
+    "query": "Agastya's pupil announces Rama Lakshmana Sita's arrival to Agastya"
+  },
+  {
+    "scene_id": 207,
+    "theme": "fidelity",
+    "query": "Sage praises Sita's unwavering fidelity and endurance in the forest"
+  },
+  {
+    "scene_id": 208,
+    "theme": "lineage",
+    "query": "Rama asks for speaker's name and listens to the description of divine lineage"
+  },
+  {
+    "scene_id": 209,
+    "theme": "settlement",
+    "query": "Rama and Lakshmana select a spot for building their cottage by a lake"
+  },
+  {
+    "scene_id": 210,
+    "theme": "Winter",
+    "query": "Description of the winter season and its associated activities"
+  },
+  {
+    "scene_id": 211,
+    "theme": "Attraction",
+    "query": "Surpanakha describes Rama's beauty and her intense attraction"
+  },
+  {
+    "scene_id": 212,
+    "theme": "Rejection",
+    "query": "Lakshmana cunningly rejects Surpanakha's marriage proposal"
+  },
+  {
+    "scene_id": 213,
+    "theme": "Revenge",
+    "query": "Khara vows revenge for Surpanakha's mutilation, questioning the perpetrator's identity"
+  },
+  {
+    "scene_id": 214,
+    "theme": "Challenge",
+    "query": "Rama challenges the giant band, declaring his intent to slay them for the hermits' protection"
+  },
+  {
+    "scene_id": 215,
+    "theme": "Defeat",
+    "query": "Surpanakha reports the defeat of her fourteen giants by Rama, seeking further aid"
+  },
+  {
+    "scene_id": 216,
+    "theme": "War",
+    "query": "Khara orders Dushana to assemble fourteen thousand giants and prepare for battle against Rama"
+  },
+  {
+    "scene_id": 217,
+    "theme": "Omens",
+    "query": "Ominous omens and dark signs appear before the impending battle in Janasthana"
+  },
+  {
+    "scene_id": 218,
+    "theme": "Courage",
+    "query": "Rama interprets omens as signs of victory, encouraging Lakshmana before the battle"
+  },
+  {
+    "scene_id": 219,
+    "theme": "Assault",
+    "query": "Khara leads his giant lords in a fierce assault, showering Rama with darts"
+  },
+  {
+    "scene_id": 220,
+    "theme": "Combat",
+    "query": "Rama disarms Dushana, slays his horses and driver, and mortally wounds him"
+  },
+  {
+    "scene_id": 221,
+    "theme": "Resolve",
+    "query": "Trishiras vows to fight Rama to the death, asking Khara to witness the combat"
+  },
+  {
+    "scene_id": 222,
+    "theme": "Combat",
+    "query": "Khara, enraged by the defeat of his army, engages Rama in a furious arrow battle"
+  },
+  {
+    "scene_id": 223,
+    "theme": "Retribution",
+    "query": "Rama condemns Khara for his sins against hermits and warns of impending retribution"
+  },
+  {
+    "scene_id": 224,
+    "theme": "Victory",
+    "query": "Rama defies Khara, declares his ultimate victory, and predicts the giant's imminent death"
+  },
+  {
+    "scene_id": 225,
+    "theme": "Anger",
+    "query": "Akampan reports Khara's death to Ravana"
+  },
+  {
+    "scene_id": 226,
+    "theme": "Defeat",
+    "query": "Surpanakha reports Khara's defeat to Ravana in Lanka"
+  },
+  {
+    "scene_id": 227,
+    "theme": "Warning",
+    "query": "Surpanakha warns Ravana against neglecting his duties"
+  },
+  {
+    "scene_id": 228,
+    "theme": "Description",
+    "query": "Surpanakha describes Rama's appearance and strength to Ravana"
+  },
+  {
+    "scene_id": 229,
+    "theme": "Decision",
+    "query": "Ravana decides to abduct Sita and prepares his chariot"
+  },
+  {
+    "scene_id": 230,
+    "theme": "War",
+    "query": "Khara leads giant army against Rama in Janasthana"
+  },
+  {
+    "scene_id": 231,
+    "theme": "Warning",
+    "query": "Advisor warns Ravana not to provoke Rama by abducting Sita"
+  },
+  {
+    "scene_id": 232,
+    "theme": "Flashback",
+    "query": "Maricha recounts his past defeat by young Rama"
+  },
+  {
+    "scene_id": 233,
+    "theme": "Flashback",
+    "query": "Maricha describes his demon past and encounter with Rama"
+  },
+  {
+    "scene_id": 234,
+    "theme": "Defiance",
+    "query": "Ravana rejects Maricha's warning and reaffirms intent to abduct Sita"
+  },
+  {
+    "scene_id": 235,
+    "theme": "Rebuke",
+    "query": "Maricha questions Ravana's wicked counsel to abduct Sita"
+  },
+  {
+    "scene_id": 236,
+    "theme": "Obedience",
+    "query": "Maricha reluctantly agrees to help Ravana abduct Sita"
+  },
+  {
+    "scene_id": 237,
+    "theme": "Deception",
+    "query": "Sita sees golden deer, Lakshmana suspects a demon"
+  },
+  {
+    "scene_id": 238,
+    "theme": "Pursuit",
+    "query": "Rama pursues the magic golden deer (Maricha)"
+  },
+  {
+    "scene_id": 239,
+    "theme": "Accusation",
+    "query": "Sita angrily accuses Lakshmana, forcing him to leave"
+  },
+  {
+    "scene_id": 240,
+    "theme": "Abduction",
+    "query": "Ravana disguised as a mendicant approaches Sita"
+  },
+  {
+    "scene_id": 241,
+    "theme": "Storytelling",
+    "query": "Sita recounts her life story to disguised Ravana"
+  },
+  {
+    "scene_id": 242,
+    "theme": "Boasting",
+    "query": "Ravana reveals his identity and boasts of his power"
+  },
+  {
+    "scene_id": 243,
+    "theme": "Transformation",
+    "query": "Ravana reveals his monstrous form to Sita"
+  },
+  {
+    "scene_id": 244,
+    "theme": "Counsel",
+    "query": "Jatayu advises Ravana against abducting Sita"
+  },
+  {
+    "scene_id": 245,
+    "theme": "Battle",
+    "query": "Ravana fights Jatayu during Sita's abduction"
+  },
+  {
+    "scene_id": 246,
+    "theme": "Lament",
+    "query": "Sita laments over the dying Jatayu"
+  },
+  {
+    "scene_id": 247,
+    "theme": "Condemnation",
+    "query": "Sita condemns Ravana's cowardly abduction"
+  },
+  {
+    "scene_id": 248,
+    "theme": "Hope",
+    "query": "Sita drops jewelry as a signal to monkeys below"
+  },
+  {
+    "scene_id": 249,
+    "theme": "Imprisonment",
+    "query": "Ravana takes Sita to his palace in Lanka"
+  },
+  {
+    "scene_id": 250,
+    "theme": "Warning",
+    "query": "Sita warns Ravana of Rama's power and vengeance"
+  },
+  {
+    "scene_id": 251,
+    "theme": "Prophecy",
+    "query": "Gods discuss Sita's abduction and giants' overthrow"
+  },
+  {
+    "scene_id": 252,
+    "theme": "Omen",
+    "query": "Rama hears jackal's cry, fears for Sita's safety"
+  },
+  {
+    "scene_id": 253,
+    "theme": "Grief",
+    "query": "Rama laments Sita's disappearance in the forest"
+  },
+  {
+    "scene_id": 254,
+    "theme": "Inquiry",
+    "query": "Rama questions Lakshmana about Sita's absence"
+  },
+  {
+    "scene_id": 255,
+    "theme": "Desolation",
+    "query": "Rama finds his hermitage desolate without Sita"
+  },
+  {
+    "scene_id": 256,
+    "theme": "Delusion",
+    "query": "Rama's mournful imaginings about Sita and his fate"
+  },
+  {
+    "scene_id": 257,
+    "theme": "Anguish",
+    "query": "Rama imagines Sita hiding among Ashok trees"
+  },
+  {
+    "scene_id": 258,
+    "theme": "Self-reproach",
+    "query": "Rama laments his past sins and current sorrow"
+  },
+  {
+    "scene_id": 259,
+    "theme": "Search",
+    "query": "Rama calls for Sita by the silent Godavari River"
+  },
+  {
+    "scene_id": 260,
+    "theme": "Comfort",
+    "query": "Lakshmana counsels Rama against despair and anger"
+  },
+  {
+    "scene_id": 261,
+    "theme": "Philosophy",
+    "query": "Lakshmana reminds Rama of Dasaratha and universality of grief"
+  },
+  {
+    "scene_id": 262,
+    "theme": "Resolve",
+    "query": "Lakshmana suggests searching Janasthana, Rama prepares for vengeance"
+  },
+  {
+    "scene_id": 263,
+    "theme": "Revelation",
+    "query": "Rama questions dying Jatayu about Sita and Ravana"
+  },
+  {
+    "scene_id": 264,
+    "theme": "Journey",
+    "query": "Rama and Lakshmana journey southward searching for Sita"
+  },
+  {
+    "scene_id": 265,
+    "theme": "Encounter",
+    "query": "Rama and Lakshmana encounter the giant Kabandha"
+  },
+  {
+    "scene_id": 266,
+    "theme": "Curse",
+    "query": "Kabandha reveals his past and how Rama will free him"
+  },
+  {
+    "scene_id": 267,
+    "theme": "Transformation",
+    "query": "Rama and Lakshmana cremate Kabandha, who rises in celestial form"
+  },
+  {
+    "scene_id": 268,
+    "theme": "Guidance",
+    "query": "Kabandha guides Rama towards Sugriva and Rishyamuka mountain"
+  },
+  {
+    "scene_id": 269,
+    "theme": "Devotion",
+    "query": "Rama and Lakshmana meet the pious Shabari"
+  },
+  {
+    "scene_id": 270,
+    "theme": "Guidance",
+    "query": "Shabari guides Rama towards Mount Rishyamuka and Sugriva"
+  },
+  {
+    "scene_id": 271,
+    "theme": "Grief",
+    "query": "Rama grieves for Sita at the beautiful Pampa Lake"
+  },
+  {
+    "scene_id": 272,
+    "theme": "Fear",
+    "query": "Sugriva fears Rama and Lakshmana, consults his lords"
+  },
+  {
+    "scene_id": 273,
+    "theme": "Diplomacy",
+    "query": "Hanuman disguised as mendicant meets Rama and Lakshmana"
+  },
+  {
+    "scene_id": 274,
+    "theme": "Introduction",
+    "query": "Lakshmana introduces himself and Rama to Hanuman"
+  },
+  {
+    "scene_id": 275,
+    "theme": "Praise",
+    "query": "Hanuman introduces Rama and Lakshmana to Sugriva"
+  },
+  {
+    "scene_id": 276,
+    "theme": "Alliance",
+    "query": "Sugriva promises to help Rama find Sita"
+  },
+  {
+    "scene_id": 277,
+    "theme": "Encouragement",
+    "query": "Sugriva encourages Rama and vows to find Sita"
+  },
+  {
+    "scene_id": 278,
+    "theme": "Friendship",
+    "query": "Sugriva affirms his unwavering friendship and loyalty to Rama"
+  },
+  {
+    "scene_id": 279,
+    "theme": "Conflict",
+    "query": "Sugriva recounts his conflict with Vali and Mayavi"
+  },
+  {
+    "scene_id": 280,
+    "theme": "Misunderstanding",
+    "query": "Sugriva explains how he became king after Vali's disappearance"
+  },
+  {
+    "scene_id": 281,
+    "theme": "Power",
+    "query": "Sugriva describes Vali's immense strength and fight with Dundubhi"
+  },
+  {
+    "scene_id": 282,
+    "theme": "Proof",
+    "query": "Rama demonstrates strength by piercing seven palm trees for Sugriva"
+  },
+  {
+    "scene_id": 283,
+    "theme": "Nature",
+    "query": "Rama, Lakshmana, Sugriva observe the natural beauty of the forest"
+  },
+  {
+    "scene_id": 284,
+    "theme": "Plea",
+    "query": "Sugriva reminds Rama of his promise to kill Vali"
+  },
+  {
+    "scene_id": 285,
+    "theme": "Warning",
+    "query": "Vali prepares for battle, Tara warns him against fighting"
+  },
+  {
+    "scene_id": 286,
+    "theme": "Defiance",
+    "query": "Vali ignores Tara's warning and confidently fights Sugriva"
+  },
+  {
+    "scene_id": 287,
+    "theme": "Death",
+    "query": "Vali is struck down by Rama's arrow"
+  },
+  {
+    "scene_id": 288,
+    "theme": "Justification",
+    "query": "Rama justifies killing Vali to Vali himself"
+  },
+  {
+    "scene_id": 289,
+    "theme": "Fear",
+    "query": "Vanaras flee, Tara questions them about Vali's fate"
+  },
+  {
+    "scene_id": 290,
+    "theme": "Lament",
+    "query": "Tara laments over Vali's dead body on the ground"
+  },
+  {
+    "scene_id": 291,
+    "theme": "Comfort",
+    "query": "Hanuman comforts Tara over Vali's death, urges acceptance"
+  },
+  {
+    "scene_id": 292,
+    "theme": "Forgiveness",
+    "query": "Dying Vali speaks to Sugriva, bequeaths kingdom and asks a boon"
+  },
+  {
+    "scene_id": 293,
+    "theme": "Despair",
+    "query": "Tara continues her lament, urging Vali to wake up"
+  },
+  {
+    "scene_id": 294,
+    "theme": "Regret",
+    "query": "Sugriva expresses regret and grief to Rama after Vali's death"
+  },
+  {
+    "scene_id": 295,
+    "theme": "fate",
+    "query": "Discourse on the unchangeable laws of Fate and futility of grief"
+  },
+  {
+    "scene_id": 296,
+    "theme": "report",
+    "query": "Hanuman informs Rama of Sugriva's restoration to power"
+  },
+  {
+    "scene_id": 297,
+    "theme": "nature",
+    "query": "Rama expresses love for mountain cave, decides to stay for rain"
+  },
+  {
+    "scene_id": 298,
+    "theme": "lament",
+    "query": "Poetic description of evening nature compared to Sita's sorrow"
+  },
+  {
+    "scene_id": 299,
+    "theme": "indulgence",
+    "query": "Sugriva's revelry and neglect, Hanuman observes with concern"
+  },
+  {
+    "scene_id": 300,
+    "theme": "longing",
+    "query": "Rama's sorrow and longing for Sita amidst nature's beauty"
+  },
+  {
+    "scene_id": 301,
+    "theme": "anger",
+    "query": "Lakshmana's wrath against Sugriva, Rama pacifies him"
+  },
+  {
+    "scene_id": 302,
+    "theme": "apprehension",
+    "query": "Sugriva expresses fear of Rama's wrath and friendship's fragility"
+  },
+  {
+    "scene_id": 303,
+    "theme": "intimidation",
+    "query": "Lakshmana enters Kishkindha, Vanara guards are afraid"
+  },
+  {
+    "scene_id": 304,
+    "theme": "confrontation",
+    "query": "Lakshmana angrily confronts Sugriva in his palace"
+  },
+  {
+    "scene_id": 305,
+    "theme": "defense",
+    "query": "Tara defends Sugriva against Lakshmana's accusations"
+  },
+  {
+    "scene_id": 306,
+    "theme": "loyalty",
+    "query": "Sugriva pledges loyalty to Rama, promising to find Sita"
+  },
+  {
+    "scene_id": 307,
+    "theme": "mobilization",
+    "query": "Sugriva commands Hanuman to gather Vanara legions for Sita's search"
+  },
+  {
+    "scene_id": 308,
+    "theme": "departure",
+    "query": "Sugriva prepares to leave Kishkindha with Lakshmana"
+  },
+  {
+    "scene_id": 309,
+    "theme": "trust",
+    "query": "Rama praises Sugriva, expresses trust in him to defeat Ravana"
+  },
+  {
+    "scene_id": 310,
+    "theme": "quest",
+    "query": "Rama tasks Sugriva with finding Sita and Ravana's location"
+  },
+  {
+    "scene_id": 311,
+    "theme": "directions",
+    "query": "Sugriva instructs Angad on specific search areas in the south"
+  },
+  {
+    "scene_id": 312,
+    "theme": "exploration",
+    "query": "Sugriva directs search for Sita in western lands and ocean beach"
+  },
+  {
+    "scene_id": 313,
+    "theme": "search",
+    "query": "Sugriva details northern search for Sita across mountains and barren lands"
+  },
+  {
+    "scene_id": 314,
+    "theme": "empowerment",
+    "query": "Rama praises Hanuman's abilities and entrusts him with Sita's search"
+  },
+  {
+    "scene_id": 315,
+    "theme": "determination",
+    "query": "Vanara chiefs depart, boasting of strength to rescue Sita"
+  },
+  {
+    "scene_id": 316,
+    "theme": "expertise",
+    "query": "Sugriva recounts his past travels and knowledge of the world"
+  },
+  {
+    "scene_id": 317,
+    "theme": "failure",
+    "query": "Vanara search parties return dispirited after failing to find Sita"
+  },
+  {
+    "scene_id": 318,
+    "theme": "desolation",
+    "query": "Vanaras explore a desolate, barren desert during their search"
+  },
+  {
+    "scene_id": 319,
+    "theme": "encouragement",
+    "query": "Angad encourages dispirited Vanaras to renew their search for Sita"
+  },
+  {
+    "scene_id": 320,
+    "theme": "discovery",
+    "query": "Vanaras discover and enter a dark, vast cave during their search"
+  },
+  {
+    "scene_id": 321,
+    "theme": "wonder",
+    "query": "Vanaras describe and question the lady of the wondrous cave"
+  },
+  {
+    "scene_id": 322,
+    "theme": "explanation",
+    "query": "Vanaras explain their mission to find Sita to the cave's mistress"
+  },
+  {
+    "scene_id": 323,
+    "theme": "anxiety",
+    "query": "Angad expresses anxiety over missed deadline for Sita's search"
+  },
+  {
+    "scene_id": 324,
+    "theme": "guidance",
+    "query": "Angad's noble character and need for guidance from others"
+  },
+  {
+    "scene_id": 325,
+    "theme": "doubt",
+    "query": "Angad doubts Sugriva's gratitude and fears for his own heirship"
+  },
+  {
+    "scene_id": 326,
+    "theme": "foreboding",
+    "query": "Angad hears menacing bird, fears death due to search failure, recalls Jatayu"
+  },
+  {
+    "scene_id": 327,
+    "theme": "sacrifice",
+    "query": "Angad offers Vanaras for sacrifice, introduces himself and Rama's story"
+  },
+  {
+    "scene_id": 328,
+    "theme": "revelation",
+    "query": "Sampati recounts his and Jatayu's fate, Angad asks about Ravana"
+  },
+  {
+    "scene_id": 329,
+    "theme": "vision",
+    "query": "Sampati recounts his son's vision and seeing Ravana abduct Sita"
+  },
+  {
+    "scene_id": 330,
+    "theme": "survival",
+    "query": "Sampati describes his fall, recovery, and recognizing Vindhya mountain"
+  },
+  {
+    "scene_id": 331,
+    "theme": "flight",
+    "query": "Sampati recounts his past aerial flight with his brother"
+  },
+  {
+    "scene_id": 332,
+    "theme": "prophecy",
+    "query": "Sampati recalls sage Ni\u015bakar's prophecy about Rama and Sita's abduction"
+  },
+  {
+    "scene_id": 333,
+    "theme": "rejuvenation",
+    "query": "Sampati's wings regenerate, fulfilling a prophecy"
+  },
+  {
+    "scene_id": 334,
+    "theme": "obstacle",
+    "query": "Vanaras face vast ocean, Angad encourages against despair"
+  },
+  {
+    "scene_id": 335,
+    "theme": "age",
+    "query": "Old Vanara expresses inability to leap ocean due to age"
+  },
+  {
+    "scene_id": 336,
+    "theme": "motivation",
+    "query": "Jambavan praises Hanuman, motivates him to leap the ocean"
+  },
+  {
+    "scene_id": 337,
+    "theme": "strength",
+    "query": "Hanuman declares his immense strength and divine lineage"
+  },
+  {
+    "scene_id": 338,
+    "theme": "preparation",
+    "query": "Hanuman prepares for his leap, disturbing the mountain and animals"
+  },
+  {
+    "scene_id": 339,
+    "theme": "observation",
+    "query": "Hanuman observes the beautiful city of Lanka from afar"
+  },
+  {
+    "scene_id": 340,
+    "theme": "confrontation",
+    "query": "Lanka's guardian Goddess confronts Hanuman at the city gate"
+  },
+  {
+    "scene_id": 341,
+    "theme": "infiltration",
+    "query": "Hanuman infiltrates Lanka, observing its grandeur and inhabitants"
+  },
+  {
+    "scene_id": 342,
+    "theme": "exploration",
+    "query": "Hanuman explores Ravana's palace and its royal splendor"
+  },
+  {
+    "scene_id": 343,
+    "theme": "opulence",
+    "query": "Hanuman marvels at the opulence and beauty of Ravana's palace"
+  },
+  {
+    "scene_id": 344,
+    "theme": "artifice",
+    "query": "Description of Ravana's wondrous aerial chariot, Pushpaka"
+  },
+  {
+    "scene_id": 345,
+    "theme": "captivity",
+    "query": "Hanuman finds Ravana's private palace, guarded by captive women"
+  },
+  {
+    "scene_id": 346,
+    "theme": "slumber",
+    "query": "Hanuman observes Ravana asleep, describing his imposing figure"
+  },
+  {
+    "scene_id": 347,
+    "theme": "search",
+    "query": "Hanuman searches for Sita among Ravana's sleeping women, finds banquet hall"
+  },
+  {
+    "scene_id": 348,
+    "theme": "despair",
+    "query": "Hanuman despairs, fearing failure in finding Sita and returning to Rama"
+  },
+  {
+    "scene_id": 349,
+    "theme": "grief",
+    "query": "Hanuman contemplates Sita's death and fears reporting failure to Rama"
+  },
+  {
+    "scene_id": 350,
+    "theme": "discovery",
+    "query": "Hanuman discovers an enchanted garden during his search"
+  },
+  {
+    "scene_id": 351,
+    "theme": "recognition",
+    "query": "Hanuman recognizes Sita in the Ashokavana, describing her sorrow"
+  },
+  {
+    "scene_id": 352,
+    "theme": "confirmation",
+    "query": "Hanuman confirms Sita's identity, reflecting on her virtues and suffering"
+  },
+  {
+    "scene_id": 353,
+    "theme": "menace",
+    "query": "Description of the grotesque and fierce Rakshasa guards around Sita"
+  },
+  {
+    "scene_id": 354,
+    "theme": "desire",
+    "query": "Ravana wakes, his desire for Sita rekindled, goes to Ashokavana"
+  },
+  {
+    "scene_id": 355,
+    "theme": "anguish",
+    "query": "Sita's anguish and despair upon Ravana's approach"
+  },
+  {
+    "scene_id": 356,
+    "theme": "enticement",
+    "query": "Ravana attempts to woo Sita with persuasive words"
+  },
+  {
+    "scene_id": 357,
+    "theme": "rejection",
+    "query": "Sita fiercely rejects Ravana, admonishing him about dharma"
+  },
+  {
+    "scene_id": 358,
+    "theme": "ultimatum",
+    "query": "Ravana gives Sita a two-month ultimatum to accept him"
+  },
+  {
+    "scene_id": 359,
+    "theme": "persuasion",
+    "query": "Rakshasa women attempt to persuade and threaten Sita to accept Ravana"
+  },
+  {
+    "scene_id": 360,
+    "theme": "defiance",
+    "query": "Sita defiantly rejects Rakshasa women's persuasion, prefers death"
+  },
+  {
+    "scene_id": 361,
+    "theme": "lament",
+    "query": "Sita laments her fate, calls for Rama and Lakshmana, wishes for death"
+  },
+  {
+    "scene_id": 362,
+    "theme": "loyalty",
+    "query": "Sita reaffirms her unwavering loyalty to Rama, recalling her abduction"
+  },
+  {
+    "scene_id": 363,
+    "theme": "prophecy",
+    "query": "Rakshasa matron Trijata dreams of Lanka's destruction and Rama's victory"
+  },
+  {
+    "scene_id": 364,
+    "theme": "contemplation",
+    "query": "Hanuman contemplates how to approach Sita without alarming her"
+  },
+  {
+    "scene_id": 365,
+    "theme": "devotion",
+    "query": "Hanuman describes Rama's virtues and kingship to Sita"
+  },
+  {
+    "scene_id": 366,
+    "theme": "devotion",
+    "query": "Sita expresses her ceaseless woe and longing for Rama"
+  },
+  {
+    "scene_id": 367,
+    "theme": "questioning",
+    "query": "Hanuman questions Sita about her identity and sorrow"
+  },
+  {
+    "scene_id": 368,
+    "theme": "revelation",
+    "query": "Hanuman delivers Rama's message to Sita, who then feels suspicion"
+  },
+  {
+    "scene_id": 369,
+    "theme": "confirmation",
+    "query": "Sita asks Hanuman to describe Rama's appearance and character"
+  },
+  {
+    "scene_id": 370,
+    "theme": "relief",
+    "query": "Hanuman presents Rama's ring to Sita, who feels joy and praises his bravery"
+  },
+  {
+    "scene_id": 371,
+    "theme": "despair",
+    "query": "Sita expresses despair about Rama reaching Lanka and Ravana's deadline"
+  },
+  {
+    "scene_id": 372,
+    "theme": "token",
+    "query": "Sita provides a unique token/memory for Rama via Hanuman"
+  },
+  {
+    "scene_id": 373,
+    "theme": "destruction",
+    "query": "Hanuman plans to destroy Ravana's grove and challenge the Rakshasas"
+  },
+  {
+    "scene_id": 374,
+    "theme": "discovery",
+    "query": "Ravana's guards discover Hanuman in the grove, question Sita, and report to their king"
+  },
+  {
+    "scene_id": 375,
+    "theme": "combat",
+    "query": "Hanuman fights Ravana's guards with a pillar and sets the city ablaze"
+  },
+  {
+    "scene_id": 376,
+    "theme": "battle",
+    "query": "Hanuman fights Prahasta's son, endures arrow shots, and retaliates with a stone"
+  },
+  {
+    "scene_id": 377,
+    "theme": "valor",
+    "query": "Hanuman displays valor in battle against archers, evading arrows and causing fear"
+  },
+  {
+    "scene_id": 378,
+    "theme": "assessment",
+    "query": "Ravana's commanders assess Hanuman's strength and prepare for battle"
+  },
+  {
+    "scene_id": 379,
+    "theme": "duel",
+    "query": "Hanuman engages in a fierce duel with Rakshasa prince Aksha"
+  },
+  {
+    "scene_id": 380,
+    "theme": "capture",
+    "query": "Ravana sends Indrajit to fight Hanuman, who is captured by a magic shaft"
+  },
+  {
+    "scene_id": 381,
+    "theme": "regality",
+    "query": "Description of Ravana on his throne, surrounded by courtiers and attendants"
+  },
+  {
+    "scene_id": 382,
+    "theme": "interrogation",
+    "query": "Ravana's minister Prahasta interrogates the captured Hanuman"
+  },
+  {
+    "scene_id": 383,
+    "theme": "warning",
+    "query": "Hanuman warns Ravana to restore Sita and fears Rama's wrath"
+  },
+  {
+    "scene_id": 384,
+    "theme": "counsel",
+    "query": "Vibhishana counsels Ravana against killing Hanuman, citing envoy law"
+  },
+  {
+    "scene_id": 385,
+    "theme": "punishment",
+    "query": "Ravana orders Hanuman's tail to be set on fire as punishment"
+  },
+  {
+    "scene_id": 386,
+    "theme": "vengeance",
+    "query": "Hanuman sets Lanka ablaze with his burning tail, sparing Vibhishana's house"
+  },
+  {
+    "scene_id": 387,
+    "theme": "remorse",
+    "query": "Hanuman feels remorse, fearing Sita's death in the burning city"
+  },
+  {
+    "scene_id": 388,
+    "theme": "departure",
+    "query": "Hanuman departs Lanka after consoling Sita, beginning his flight back"
+  },
+  {
+    "scene_id": 389,
+    "theme": "triumph",
+    "query": "Hanuman triumphantly returns from Lanka, announcing his success"
+  },
+  {
+    "scene_id": 390,
+    "theme": "celebration",
+    "query": "Vanaras celebrate and feast wildly in a honey grove with Angad's permission"
+  },
+  {
+    "scene_id": 391,
+    "theme": "report",
+    "query": "Hanuman reports to Rama about finding Sita and delivers her message"
+  },
+  {
+    "scene_id": 392,
+    "theme": "grief",
+    "query": "Rama grieves upon seeing Sita's jewel, recalling memories"
+  },
+  {
+    "scene_id": 393,
+    "theme": "despair",
+    "query": "Rama despairs over the challenge of crossing the ocean to Lanka"
+  },
+  {
+    "scene_id": 394,
+    "theme": "encouragement",
+    "query": "Sugriva encourages Rama to build a bridge and defeat Ravana"
+  },
+  {
+    "scene_id": 395,
+    "theme": "intelligence",
+    "query": "Rama asks Hanuman for intelligence about Lanka's defenses"
+  },
+  {
+    "scene_id": 396,
+    "theme": "resolve",
+    "query": "Rama commands his army to march to Lanka, filled with resolve"
+  },
+  {
+    "scene_id": 397,
+    "theme": "grief",
+    "query": "Rama expresses his deepening grief and longing for Sita"
+  },
+  {
+    "scene_id": 398,
+    "theme": "strategy",
+    "query": "Ravana calls for counsel to devise a strategy against Rama's impending attack"
+  },
+  {
+    "scene_id": 399,
+    "theme": "might",
+    "query": "Ravana is praised for his past conquests and immense might"
+  },
+  {
+    "scene_id": 400,
+    "theme": "defiance",
+    "query": "Ravana's chiefs express defiance and plan revenge for Hanuman's destruction"
+  },
+  {
+    "scene_id": 401,
+    "theme": "warning",
+    "query": "Vibhishana warns Ravana's chiefs about Rama and Hanuman's power"
+  },
+  {
+    "scene_id": 402,
+    "theme": "opulence",
+    "query": "Description of Ravana's opulent palace and court"
+  },
+  {
+    "scene_id": 403,
+    "theme": "council",
+    "query": "Ravana summons his captains to the council hall"
+  },
+  {
+    "scene_id": 404,
+    "theme": "defense",
+    "query": "Ravana orders Prahasta to array forces for Lanka's defense"
+  },
+  {
+    "scene_id": 405,
+    "theme": "flattery",
+    "query": "Ravana's courtiers flatter him, advising him to keep Sita and use his strong warriors"
+  },
+  {
+    "scene_id": 406,
+    "theme": "plea",
+    "query": "Vibhishana pleads with Ravana to restore Sita to Rama"
+  },
+  {
+    "scene_id": 407,
+    "theme": "arrogance",
+    "query": "Ravana boasts of his past conquests and dismisses Rama as weak"
+  },
+  {
+    "scene_id": 408,
+    "theme": "distrust",
+    "query": "A speaker reflects on distrust, treachery, and human perfidy"
+  },
+  {
+    "scene_id": 409,
+    "theme": "suspicion",
+    "query": "Sugriva voices suspicion as Vibhishana and his attendants approach"
+  },
+  {
+    "scene_id": 410,
+    "theme": "principle",
+    "query": "Rama declares his principle of protecting suppliants, despite Sugriva's doubts"
+  },
+  {
+    "scene_id": 411,
+    "theme": "refuge",
+    "query": "Vibhishana seeks refuge with Rama, identifying himself as Ravana's brother"
+  },
+  {
+    "scene_id": 412,
+    "theme": "reconnaissance",
+    "query": "A spy reports Rama's army arrival; Ravana sends Suka as envoy to Sugriva"
+  },
+  {
+    "scene_id": 413,
+    "theme": "wrath",
+    "query": "Rama becomes enraged when the Ocean God doesn't respond to his plea"
+  },
+  {
+    "scene_id": 414,
+    "theme": "power",
+    "query": "Rama prepares to dry the ocean with a mystic shaft"
+  },
+  {
+    "scene_id": 415,
+    "theme": "anguish",
+    "query": "Rama gazes at Lanka, expressing anguish for Sita to Lakshmana"
+  },
+  {
+    "scene_id": 416,
+    "theme": "espionage",
+    "query": "Ravana sends spies to gather intelligence on Rama and the Vanara army"
+  },
+  {
+    "scene_id": 417,
+    "theme": "identification",
+    "query": "Ravana asks his spy to identify and describe the Vanara leaders"
+  },
+  {
+    "scene_id": 418,
+    "theme": "identification",
+    "query": "Sarana continues identifying Vanara chiefs and their attributes to Ravana"
+  },
+  {
+    "scene_id": 419,
+    "theme": "might",
+    "query": "Sarana describes mighty Vanara chieftains like Dwivid, Mainda, and Hanuman"
+  },
+  {
+    "scene_id": 420,
+    "theme": "anger",
+    "query": "Ravana angrily dismisses counselors who reported Rama's strength"
+  },
+  {
+    "scene_id": 421,
+    "theme": "captivity",
+    "query": "Sarana recounts his capture, Rama's mercy, and confirming the sea bridge"
+  },
+  {
+    "scene_id": 422,
+    "theme": "deception",
+    "query": "Ravana orders a magician to create a false Rama head to deceive Sita"
+  },
+  {
+    "scene_id": 423,
+    "theme": "grief",
+    "query": "Sita collapses in grief upon seeing the magically created false Rama head"
+  },
+  {
+    "scene_id": 424,
+    "theme": "comfort",
+    "query": "Sarama comforts Sita by revealing Ravana's deception about Rama's death"
+  },
+  {
+    "scene_id": 425,
+    "theme": "aid",
+    "query": "Sarama offers to carry a message to Rama for Sita"
+  },
+  {
+    "scene_id": 426,
+    "theme": "wisdom",
+    "query": "Ravana's elder Malyavan advises him on kingship and strategy"
+  },
+  {
+    "scene_id": 427,
+    "theme": "defiance",
+    "query": "Ravana defiantly rejects Malyavan's counsel, boasting his might"
+  },
+  {
+    "scene_id": 428,
+    "theme": "strategy",
+    "query": "Rama and allies strategize on penetrating Lanka's defenses with Vibhishana's intelligence"
+  },
+  {
+    "scene_id": 429,
+    "theme": "observation",
+    "query": "Rama and his chiefs observe Lanka's fortifications from Mount Suvela"
+  },
+  {
+    "scene_id": 430,
+    "theme": "advance",
+    "query": "The Vanara army advances through Lanka's beautiful groves"
+  },
+  {
+    "scene_id": 431,
+    "theme": "confrontation",
+    "query": "Sugriva confronts Ravana on his turret, declaring allegiance to Rama"
+  },
+  {
+    "scene_id": 432,
+    "theme": "command",
+    "query": "Rama commands Lakshmana to marshal the army for an immediate assault on Lanka"
+  },
+  {
+    "scene_id": 433,
+    "theme": "assault",
+    "query": "The Vanara army assaults Lanka, scaling ramparts and destroying gates"
+  },
+  {
+    "scene_id": 434,
+    "theme": "combat",
+    "query": "Descriptions of individual duels between Vanara and Rakshasa champions"
+  },
+  {
+    "scene_id": 435,
+    "theme": "war",
+    "query": "Fierce battle between Rakshasas and Vanars, gore and chaos"
+  },
+  {
+    "scene_id": 436,
+    "theme": "war",
+    "query": "Indrajit attacks Rama and Lakshmana with magic arrows, boasts of invisibility"
+  },
+  {
+    "scene_id": 437,
+    "theme": "grief",
+    "query": "Vanars and Vibhishana lament 'fallen' Rama and Lakshmana, Indrajit's magic"
+  },
+  {
+    "scene_id": 438,
+    "theme": "malice",
+    "query": "Ravana rejoices at Rama's 'death', orders Sita to view bodies"
+  },
+  {
+    "scene_id": 439,
+    "theme": "despair",
+    "query": "Sita laments Rama's 'death', recalls prophecies of queenship"
+  },
+  {
+    "scene_id": 440,
+    "theme": "devotion",
+    "query": "Sita's lament, refuses to live without Rama and Lakshmana"
+  },
+  {
+    "scene_id": 441,
+    "theme": "grief",
+    "query": "Vibhishana laments Rama and Lakshmana's 'fall', condemns Indrajit's dishonest victory"
+  },
+  {
+    "scene_id": 442,
+    "theme": "suspense",
+    "query": "Ravana hears joyous Vanar shouts, sends envoys to investigate"
+  },
+  {
+    "scene_id": 443,
+    "theme": "war",
+    "query": "Fierce battle between Rakshasas and Vanars, arrows, rocks, trees"
+  },
+  {
+    "scene_id": 444,
+    "theme": "foreboding",
+    "query": "Giant warrior Prahasta prepares for battle, ill omens appear"
+  },
+  {
+    "scene_id": 445,
+    "theme": "bravery",
+    "query": "Angad fights a giant, gets wounded, throws a tree"
+  },
+  {
+    "scene_id": 446,
+    "theme": "war",
+    "query": "Nila kills general Prahasta with a tree, Ravana's rage"
+  },
+  {
+    "scene_id": 447,
+    "theme": "war",
+    "query": "Ravana decides to enter battle after Prahasta's death, leads army"
+  },
+  {
+    "scene_id": 448,
+    "theme": "prophecy",
+    "query": "Ravana defeated by Rama, recalls Brahma's prophecy of death by man"
+  },
+  {
+    "scene_id": 449,
+    "theme": "fear",
+    "query": "Rama sees mighty Kumbhakarna, Vibhishana identifies him, Vanars flee"
+  },
+  {
+    "scene_id": 450,
+    "theme": "duty",
+    "query": "Kumbhakarna awakens, Ravana reproaches him for sleeping during war"
+  },
+  {
+    "scene_id": 451,
+    "theme": "conflict",
+    "query": "Ravana angrily rejects Kumbhakarna's past advice, demands action"
+  },
+  {
+    "scene_id": 452,
+    "theme": "caution",
+    "query": "Mahodar warns Kumbhakarna against fighting mighty Rama"
+  },
+  {
+    "scene_id": 453,
+    "theme": "bravery",
+    "query": "Ravana sends brave Kumbhakarna to battle, mocks Mahodar's fear"
+  },
+  {
+    "scene_id": 454,
+    "theme": "bravery",
+    "query": "Angad rallies fleeing Vanars to fight Kumbhakarna with rocks and trees"
+  },
+  {
+    "scene_id": 455,
+    "theme": "war",
+    "query": "Kumbhakarna kills thousands of Vanars with his mace, Dwivid attacks"
+  },
+  {
+    "scene_id": 456,
+    "theme": "grief",
+    "query": "Ravana and Rakshasa chiefs grieve Kumbhakarna's death by Rama"
+  },
+  {
+    "scene_id": 457,
+    "theme": "duty",
+    "query": "Trishiras offers to fight Rama's forces after Ravana's lament"
+  },
+  {
+    "scene_id": 458,
+    "theme": "bravery",
+    "query": "Angad fights and wounds Mahodar and two other Rakshasa warriors"
+  },
+  {
+    "scene_id": 459,
+    "theme": "fear",
+    "query": "Mighty Rakshasa Atikaya enters battle, frightens Vanars"
+  },
+  {
+    "scene_id": 460,
+    "theme": "despair",
+    "query": "Ravana despairs over fallen generals, acknowledges Rama's might"
+  },
+  {
+    "scene_id": 461,
+    "theme": "ritual",
+    "query": "Indrajit performs fire ritual for battle, departs for war"
+  },
+  {
+    "scene_id": 462,
+    "theme": "grief",
+    "query": "Hanuman and Vibhishana find fallen Vanar chiefs on battlefield"
+  },
+  {
+    "scene_id": 463,
+    "theme": "destruction",
+    "query": "Lanka city burning, palaces collapsing, giants flee in terror"
+  },
+  {
+    "scene_id": 464,
+    "theme": "grief",
+    "query": "Ravana laments Indrajit's death by Lakshmana, questions Lakshmana's might"
+  },
+  {
+    "scene_id": 465,
+    "theme": "rage",
+    "query": "Ravana prepares for battle after Indrajit's death, gathers army"
+  },
+  {
+    "scene_id": 466,
+    "theme": "war",
+    "query": "Ravana charges into battle against Rama, vows revenge"
+  },
+  {
+    "scene_id": 467,
+    "theme": "war",
+    "query": "Ravana fights Vibhishana, Lakshmana intervenes, drawing Ravana's wrath"
+  },
+  {
+    "scene_id": 468,
+    "theme": "grief",
+    "query": "Rama laments over seemingly dead Lakshmana, feels despair"
+  },
+  {
+    "scene_id": 469,
+    "theme": "divine intervention",
+    "query": "Indra sends divine chariot and Matali to aid Rama in battle"
+  },
+  {
+    "scene_id": 470,
+    "theme": "devotion",
+    "query": "Matali advises Rama to worship the Sun God for success"
+  },
+  {
+    "scene_id": 471,
+    "theme": "war",
+    "query": "Rama and Ravana duel, Rama splits Ravana's banner"
+  },
+  {
+    "scene_id": 472,
+    "theme": "war",
+    "query": "Ravana's furious attack shakes worlds, Gods pray for Rama's victory"
+  },
+  {
+    "scene_id": 473,
+    "theme": "divine power",
+    "query": "Matali advises Rama to use the Brahmastra against Ravana"
+  },
+  {
+    "scene_id": 474,
+    "theme": "grief",
+    "query": "Vibhishana laments over his dead brother Ravana"
+  },
+  {
+    "scene_id": 475,
+    "theme": "grief",
+    "query": "Ravana's wives lament and weep over his dead body"
+  },
+  {
+    "scene_id": 476,
+    "theme": "divine power",
+    "query": "Mandodari laments Ravana's death, attributes it to Vishnu"
+  },
+  {
+    "scene_id": 477,
+    "theme": "victory",
+    "query": "Gods celebrate Ravana's death in heaven, praise Rama and allies"
+  },
+  {
+    "scene_id": 478,
+    "theme": "joy",
+    "query": "Hanuman tells Sita of Rama's victory and Ravana's death"
+  },
+  {
+    "scene_id": 479,
+    "theme": "duty",
+    "query": "Rama asks Vibhishana to bring Sita after she prepares herself"
+  },
+  {
+    "scene_id": 480,
+    "theme": "honor",
+    "query": "Rama declares his honor cleared, task done, enemy slain to Sita"
+  },
+  {
+    "scene_id": 481,
+    "theme": "innocence",
+    "query": "Sita defends her innocence and faithfulness to Rama, blames fate"
+  },
+  {
+    "scene_id": 482,
+    "theme": "divine intervention",
+    "query": "Gods question Rama about Sita's fire test, reveal his divinity"
+  },
+  {
+    "scene_id": 483,
+    "theme": "purity",
+    "query": "Agni presents purified Sita to Rama, declares her faithfulness"
+  },
+  {
+    "scene_id": 484,
+    "theme": "restoration",
+    "query": "Gods praise Rama, urge his return to Ayodhya and fulfillment of duties"
+  },
+  {
+    "scene_id": 485,
+    "theme": "compassion",
+    "query": "Rama asks Indra to revive dead Vanars, Indra grants boon"
+  },
+  {
+    "scene_id": 486,
+    "theme": "duty",
+    "query": "Rama rejects luxuries, eager to return to Bharat and Ayodhya"
+  },
+  {
+    "scene_id": 487,
+    "theme": "gratitude",
+    "query": "Rama departs Lanka on Pushpaka Vimana, bids farewell to allies"
+  },
+  {
+    "scene_id": 488,
+    "theme": "remembrance",
+    "query": "Rama points out Lanka, battlefield, and sea from Pushpaka Vimana"
+  },
+  {
+    "scene_id": 489,
+    "theme": "devotion",
+    "query": "Rama asks Bharadvaja about Ayodhya, Bharadvaja praises Bharat's loyalty"
+  },
+  {
+    "scene_id": 490,
+    "theme": "anticipation",
+    "query": "Rama sends Hanuman ahead to inform Guha and Bharat of his return"
+  },
+  {
+    "scene_id": 491,
+    "theme": "narrative",
+    "query": "Hanuman recounts Rama's adventures and Sita's abduction to Guha"
+  },
+  {
+    "scene_id": 492,
+    "theme": "celebration",
+    "query": "Shatrughna orders grand welcome preparations for Rama's return"
+  },
+  {
+    "scene_id": 493,
+    "theme": "duty",
+    "query": "Bharat returns kingdom to Rama, urges consecration ceremony"
+  }
+]
