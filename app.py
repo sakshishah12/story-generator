@@ -39,7 +39,7 @@ z-index:-1;
 }}
 
 .title {{
-font-size:46px;
+font-size:76px;
 text-align:center;
 font-weight:bold;
 color:#ffcc00;
