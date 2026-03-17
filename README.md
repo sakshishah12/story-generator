@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="bg/Gemini_Generated_Image_95eorb95eorb95eo.png" width="100%" />
+</p>
 # 📜 Ramayana Story Generator
 
 An AI-powered storytelling platform that generates **context-aware, child-friendly stories from the Ramayana** using a hybrid retrieval system and large language models.
