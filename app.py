@@ -47,11 +47,17 @@ text-shadow:2px 2px 6px black;
 }}
 
 .control-box {{
-background: rgba(255,255,255,0.95);
-padding:18px;
-border-radius:12px;
-border:2px solid #e0b96c;
-margin-bottom:15px;
+    background: rgba(255, 250, 240, 0.95);
+    padding:18px;
+    border-radius:12px;
+    border:2px solid #e0b96c;
+    margin-bottom:15px;
+    color: #2b2b2b;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}}
+
+.control-box b {{
+    color: #5a2d00;
 }}
 
 .story-box {{
