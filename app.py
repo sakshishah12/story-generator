@@ -10,14 +10,14 @@ st.set_page_config(
     layout="wide"
 )
 
-# ---------- BACKGROUND ----------
+# ---------- HELPER ----------
 def get_base64_image(image_path):
     with open(image_path, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
 bg_img = get_base64_image("bg/ramayana_bg.png")
 
-# ---------- CSS ----------
+# ---------- RESPONSIVE CSS ----------
 st.markdown(f"""
 <style>
 
@@ -25,8 +25,10 @@ st.markdown(f"""
     background-image: url("data:image/jpg;base64,{bg_img}");
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }}
 
+/* overlay */
 .stApp::before {{
 content:"";
 position:fixed;
@@ -44,20 +46,17 @@ text-align:center;
 font-weight:bold;
 color:#ffcc00;
 text-shadow:2px 2px 6px black;
+margin-bottom: 10px;
 }}
 
 .control-box {{
-    background: rgba(255, 250, 240, 0.95);
-    padding:18px;
-    border-radius:12px;
-    border:2px solid #e0b96c;
-    margin-bottom:15px;
-    color: #2b2b2b;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-}}
-
-.control-box b {{
-    color: #5a2d00;
+background: rgba(255, 250, 240, 0.95);
+padding:18px;
+border-radius:12px;
+border:2px solid #e0b96c;
+margin-bottom:15px;
+color: #2b2b2b;
+box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }}
 
 .story-box {{
@@ -81,8 +80,38 @@ div.stButton > button {{
 background: linear-gradient(135deg,#ff9933,#ffcc66);
 border-radius:10px;
 border:none;
-padding:8px;
+padding:10px;
 font-weight:600;
+width:100%;
+}}
+
+/* THEME CARD STYLE */
+.theme-btn button {{
+height:60px;
+font-size:16px;
+}}
+
+/* -------- MOBILE -------- */
+@media (max-width: 768px) {{
+
+    .title {{
+        font-size:28px !important;
+    }}
+
+    .story-box {{
+        font-size:15px;
+        padding:15px;
+    }}
+
+    .control-box {{
+        padding:12px;
+        font-size:14px;
+    }}
+
+    div.stButton > button {{
+        font-size:16px;
+        padding:12px;
+    }}
 }}
 
 </style>
@@ -93,8 +122,16 @@ st.markdown('<p class="title">📜 Ramayana Story Explorer</p>', unsafe_allow_ht
 
 themes = sorted(get_themes())
 
-# ---------- MAIN LAYOUT ----------
-left_col, right_col = st.columns([1.3, 3])
+# ---------- RESPONSIVE DETECTION ----------
+# fallback approach
+is_mobile = st.session_state.get("is_mobile", False)
+
+# ---------- LAYOUT ----------
+if is_mobile:
+    left_col = st.container()
+    right_col = st.container()
+else:
+    left_col, right_col = st.columns([1.2, 2.8])
 
 # ================= LEFT PANEL =================
 with left_col:
@@ -110,7 +147,6 @@ with left_col:
         </div>
         """, unsafe_allow_html=True)
 
-    # ---------- GENERATION ----------
     if generate_clicked:
 
         if not selected_theme:
@@ -130,38 +166,42 @@ with left_col:
             with st.spinner("📖 Generating story..."):
                 story = generate_story(query, contexts)
 
-            # store results
             st.session_state["story"] = story
             st.session_state["contexts"] = contexts
             st.session_state["scroll"] = True
 
-            # scroll indicator
-            st.success("✅ Story generated! Scroll down to read 📖👇")
+            st.success("✅ Story generated! Scroll down 📖👇")
 
 # ================= RIGHT PANEL =================
 with right_col:
 
     st.subheader("Choose a Theme")
 
-    cols = st.columns(4)
+    # responsive grid
+    num_cols = 4
+    if is_mobile:
+        num_cols = 2
+
+    cols = st.columns(num_cols)
 
     for i, theme in enumerate(themes):
+        col = cols[i % num_cols]
 
-        col = cols[i % 4]
+        with col:
+            if st.button(theme, key=f"theme_{theme}"):
+                st.session_state["theme"] = theme
 
-        if col.button(theme, key=f"theme_{theme}"):
-            st.session_state["theme"] = theme
-
-# ---------- SCROLL ANCHOR ----------
+# ---------- SCROLL ----------
 st.markdown("<div id='story_section'></div>", unsafe_allow_html=True)
 
-# ---------- AUTO SCROLL ----------
 if st.session_state.get("scroll"):
     st.markdown(
         """
         <script>
         const section = window.parent.document.getElementById("story_section");
-        section.scrollIntoView({behavior: "smooth"});
+        if(section){
+            section.scrollIntoView({behavior: "smooth"});
+        }
         </script>
         """,
         unsafe_allow_html=True
