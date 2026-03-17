@@ -4,16 +4,16 @@ import google.generativeai as genai
 
 load_dotenv()
 
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-
-model = genai.GenerativeModel("gemini-2.5-flash")
+api_key = st.secrets["GOOGLE_API_KEY"]
+genai.configure(api_key=api_key)
+model = genai.GenerativeModel("gemini-flash-latest")
 
 def generate_story(query, contexts):
 
     context_text = "\n".join([c.page_content for c in contexts])
 
     prompt = f"""
-You are a storyteller narrating the Ramayana to children.
+You are a storyteller narrating the Ramayana to people aged 7-20.
 
 Scene:
 {query}
@@ -28,3 +28,6 @@ Make it feel like an engaging and imaginative story while remaining faithful to 
     response = model.generate_content(prompt)
 
     return response.text
+
+# for m in genai.list_models():
+#     print(m.name)

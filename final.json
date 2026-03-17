@@ -311,7 +311,7 @@
   },
   {
     "scene_id": 62,
-    "theme": "seduction",
+    "theme": "Charm",
     "query": "Indra orders Rambha to seduce Vishwamitra, who is charmed by her."
   },
   {
@@ -476,7 +476,7 @@
   },
   {
     "scene_id": 95,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "King Dasharatha faints from overwhelming grief"
   },
   {
@@ -541,12 +541,12 @@
   },
   {
     "scene_id": 108,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Ayodhya citizens lament Rama's exile on foot"
   },
   {
     "scene_id": 109,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Dasharatha's grief as Rama prepares for exile"
   },
   {
@@ -556,7 +556,7 @@
   },
   {
     "scene_id": 111,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Dasharatha orders a luxurious retinue for Rama's exile"
   },
   {
@@ -571,7 +571,7 @@
   },
   {
     "scene_id": 114,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Dasharatha faints watching Rama wear hermit garb"
   },
   {
@@ -581,7 +581,7 @@
   },
   {
     "scene_id": 116,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Royal queens lament Rama's banishment; Dasharatha's grief"
   },
   {
@@ -611,7 +611,7 @@
   },
   {
     "scene_id": 122,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Multitude's fear and grief over Rama's departure, lamenting his absence."
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "scene_id": 150,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Bharat arrives, learns of banishment, meets Kausalya"
   },
   {
@@ -781,7 +781,7 @@
   },
   {
     "scene_id": 156,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Bharat expresses sorrow and blames Kaikeyi for current misfortunes"
   },
   {
@@ -891,7 +891,7 @@
   },
   {
     "scene_id": 178,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Rama expresses sorrow for his father's death and reluctance to return to Ayodhya"
   },
   {
@@ -1266,7 +1266,7 @@
   },
   {
     "scene_id": 253,
-    "theme": "Grief",
+    "theme": "lamentation",
     "query": "Rama laments Sita's disappearance in the forest"
   },
   {
@@ -1356,7 +1356,7 @@
   },
   {
     "scene_id": 271,
-    "theme": "Grief",
+    "theme": "lamentation",
     "query": "Rama grieves for Sita at the beautiful Pampa Lake"
   },
   {
@@ -1746,7 +1746,7 @@
   },
   {
     "scene_id": 349,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Hanuman contemplates Sita's death and fears reporting failure to Rama"
   },
   {
@@ -1961,7 +1961,7 @@
   },
   {
     "scene_id": 392,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Rama grieves upon seeing Sita's jewel, recalling memories"
   },
   {
@@ -1986,7 +1986,7 @@
   },
   {
     "scene_id": 397,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Rama expresses his deepening grief and longing for Sita"
   },
   {
@@ -2116,7 +2116,7 @@
   },
   {
     "scene_id": 423,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Sita collapses in grief upon seeing the magically created false Rama head"
   },
   {
@@ -2186,7 +2186,7 @@
   },
   {
     "scene_id": 437,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Vanars and Vibhishana lament 'fallen' Rama and Lakshmana, Indrajit's magic"
   },
   {
@@ -2206,7 +2206,7 @@
   },
   {
     "scene_id": 441,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Vibhishana laments Rama and Lakshmana's 'fall', condemns Indrajit's dishonest victory"
   },
   {
@@ -2281,7 +2281,7 @@
   },
   {
     "scene_id": 456,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Ravana and Rakshasa chiefs grieve Kumbhakarna's death by Rama"
   },
   {
@@ -2311,7 +2311,7 @@
   },
   {
     "scene_id": 462,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Hanuman and Vibhishana find fallen Vanar chiefs on battlefield"
   },
   {
@@ -2321,7 +2321,7 @@
   },
   {
     "scene_id": 464,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Ravana laments Indrajit's death by Lakshmana, questions Lakshmana's might"
   },
   {
@@ -2341,7 +2341,7 @@
   },
   {
     "scene_id": 468,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Rama laments over seemingly dead Lakshmana, feels despair"
   },
   {
@@ -2371,12 +2371,12 @@
   },
   {
     "scene_id": 474,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Vibhishana laments over his dead brother Ravana"
   },
   {
     "scene_id": 475,
-    "theme": "grief",
+    "theme": "lamentation",
     "query": "Ravana's wives lament and weep over his dead body"
   },
   {
