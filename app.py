@@ -61,7 +61,7 @@ text-shadow:2px 2px 6px black;
 }}
 
 .story-box {{
-background: black;
+background: rgba(60,50,22,0.9);
 padding:25px;
 border-radius:15px;
 border:2px solid #e0b96c;
@@ -70,7 +70,7 @@ line-height:1.7;
 }}
 
 .source-box {{
-background: rgba(255,245,220,0.9);
+background: rgba(60,50,22,0.9);
 border-left:6px solid #ff9933;
 padding:10px;
 margin-bottom:10px;
