@@ -61,7 +61,7 @@ text-shadow:2px 2px 6px black;
 }}
 
 .story-box {{
-background: rgba(255,255,255,0.92);
+background: black;
 padding:25px;
 border-radius:15px;
 border:2px solid #e0b96c;
