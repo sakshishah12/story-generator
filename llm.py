@@ -3,8 +3,8 @@ import os
 import google.generativeai as genai
 import streamlit as st
 
-# api_key = st.secrets["GOOGLE_API_KEY"]
-# genai.configure(api_key=api_key)
+api_key = st.secrets["GOOGLE_API_KEY"]
+genai.configure(api_key=api_key)
 model = genai.GenerativeModel("gemini-flash-latest")
 
 def generate_story(query, contexts):

@@ -44,7 +44,7 @@ z-index:-1;
 font-size:46px !important;
 text-align:center;
 font-weight:bold;
-color:#ffcc00;
+color:white;
 text-shadow:2px 2px 6px black;
 margin-bottom: 10px;
 }}
