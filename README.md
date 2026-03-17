@@ -97,6 +97,17 @@ Story + source passages displayed
 
 ---
 
+Evaluation Metrics
+| Metric               | Weight | Score |
+| -------------------- | ------ | ----- |
+| Relevance            | 0.25   | 0.91  |
+| Grounding            | 0.20   | 0.78  |
+| Faithfulness         | 0.20   | 0.85  |
+| Coverage             | 0.15   | 0.86  |
+| Lexical Overlap      | 0.10   | 0.72  |
+| Thematic Consistency | 0.10   | 0.93  |
+
+
 ## 📂 Project Structure
 
 ```
@@ -218,14 +229,7 @@ MS in Data Science — Stony Brook University
 * 💼 Interested in: ML, NLP, AI Systems
 * 🔗 GitHub: https://github.com/sakshishah12
 
----
 
-## ⭐ Key Highlights (for Recruiters)
-
-* Built a **hybrid retrieval + LLM pipeline**
-* Designed a **production-ready Streamlit application**
-* Handled **API limits, deployment, and UI optimization**
-* Focused on **real-world usability and storytelling experience**
 
 ---
 
