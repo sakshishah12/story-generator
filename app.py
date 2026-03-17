@@ -43,6 +43,7 @@ font-size:46px !important;
 text-align:center;
 font-weight:bold;
 color:#ffcc00;
+text-shadow:2px 2px 6px black;
 }}
 
 .control-box {{
