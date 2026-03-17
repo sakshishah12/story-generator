@@ -66,6 +66,7 @@ border-radius:15px;
 border:2px solid #e0b96c;
 font-size:18px;
 line-height:1.7;
+color:white;
 }}
 
 .source-box {{
