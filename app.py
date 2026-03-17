@@ -75,6 +75,7 @@ border-left:6px solid #ff9933;
 padding:10px;
 margin-bottom:10px;
 border-radius:6px;
+color:white;
 }}
 
 div.stButton > button {{
